@@ -46,7 +46,7 @@ article {
 
 @media screen and (max-width: 400px ) {
     h1 {
-     font-size: 50px;
+     font-size: 40px;
     }
     main {
         grid-template-columns: 1fr;
