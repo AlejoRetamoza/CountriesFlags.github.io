@@ -20,7 +20,7 @@ getCountries(data => {
             <img src="${country.flags.png}" alt="">
         </div>
 
-        <div class="info-container">s
+        <div class="info-container">
             <h3>${country.name.common}</h3>
             <span>${country.capital}</span>
         </div>
